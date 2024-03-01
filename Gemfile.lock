@@ -7,12 +7,11 @@ GEM
     rake-compiler (1.2.1)
       rake
     rubyzip (2.3.2)
-    webrick (1.7.0)
-    yard (0.9.28)
-      webrick (~> 1.7.0)
+    yard (0.9.36)
 
 PLATFORMS
   arm64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   excon
