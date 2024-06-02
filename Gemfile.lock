@@ -4,7 +4,7 @@ GEM
     excon (0.95.0)
     minitest (5.16.3)
     rake (13.0.6)
-    rake-compiler (1.2.1)
+    rake-compiler (1.2.7)
       rake
     rubyzip (2.3.2)
     webrick (1.7.0)
@@ -13,6 +13,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   excon
